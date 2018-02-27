@@ -4,8 +4,30 @@
     border-radius: 3px;
     text-decoration:none;
     color: #f00;
+    font-family: 'Lobster', cursive;
+}
+
+
+
+.primary-btn{
+    background: #00FF0D;
+    color: #fff;
+    border-color: #00FF0D;
+}
+.secondary-btn{
+    background: #2F00FF;
+    color: #fff;
+    border-color: #2F00FF;
 }
 .btn:hover{
     background: #f00;
     color: #fff;
+}
+.primary-btn:hover{
+    background: #FFFFFF;
+    color: #00FF0D;
+}
+.secondary-btn:hover{
+    background: #fff;
+    color: #2F00FF;
 }
